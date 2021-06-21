@@ -18,16 +18,18 @@ You don't have to pick big projects. In fact, picking too big a project can be d
 2. Read the projects list
 3. Find the first interesting project that you don't know how to do
 4. Implement that your project. Do not follow an exact tutorial in order to do so.
-5. (Optional) Get feedback from someone
-6. Go back to 2 until you feel ready to be hired.
+5. Publish your project on GitHub
+6. (Optional) Get feedback from someone
+7. Go back to 2 until you feel ready to be hired.
 
 __Please make PRs for anything you find confusing or for your own Project suggestions.__
 
 ## Setup
 
-You'll need to know some basic things before you get going
+You'll need to know/have some basic things before you get going
 
 - Learn the basics of git. You should be able to clone a repo, make your own repo, make commits and push them to a remote repo.
+- Have a GitHub account to share your projects on.
 
 ## Projects
 
