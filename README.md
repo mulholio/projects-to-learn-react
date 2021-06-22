@@ -51,3 +51,6 @@ You'll need to know/have some basic things before you get going
   - Technologies to learn
   - Examples
 - [ ] Add difficulty section
+- [ ] Cover testing
+- [ ] Write minimal stuff you need to know before applying
+    - e.g. do you need Redux, Tailwind
